@@ -1,0 +1,13 @@
+
+.profile-container {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.profile-img {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
